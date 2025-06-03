@@ -68,20 +68,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jjarque&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<h3 align="left">📈 Recent Activity</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjarque&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph" />
-</div>
-
-###
-
-<div align="center">
-  <p>Thanks for visiting my profile! 🚀</p>
-</div>
-
