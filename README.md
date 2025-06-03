@@ -18,26 +18,25 @@
 
 ###
 
-<h1 align="center">¡Hola! 👋 Soy Jaime</h1>
+<h1 align="center">Hello! 👋 I'm Jaime</h1>
 
 ###
 
-<h3 align="left">👨‍💻 Sobre mí</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
 <p align="left">
-🚀 Desarrollador Full Stack apasionado por crear soluciones innovadoras<br>
-💡 Me especializo en desarrollo web moderno y aplicaciones escalables<br>
-🌱 Actualmente aprendiendo nuevas tecnologías y mejorando mis habilidades<br>
-🎯 Mi objetivo es contribuir a proyectos que generen impacto positivo<br>
-🌐 Visita mi sitio web para conocer más sobre mis proyectos<br>
-⚡ Dato curioso: Me encanta resolver problemas complejos con código elegante
+🚀 Full Stack Developer passionate about creating innovative solutions<br>
+💡 I specialize in modern web development and scalable applications<br>
+🌱 Currently learning new technologies and improving my skills<br>
+🎯 My goal is to contribute to projects that generate positive impact<br>
+🌐 Visit my website to learn more about my projects<br>
 </p>
 
 ###
 
-<h3 align="left">🛠 Tecnologías y Herramientas</h3>
+<h3 align="left">🛠 Technologies & Tools</h3>
 
 ###
 
@@ -58,41 +57,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
-<h3 align="left">📊 Estadísticas de GitHub</h3>
+<h3 align="left">📊 GitHub Statistics</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjarque&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjarque&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjarque&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjarque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jjarque&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=jjarque&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<h3 align="left">🏆 Logros de GitHub</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jjarque&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="trophy graph"  />
-</div>
-
-###
-
-<h3 align="left">🐍 Contribuciones</h3>
+<h3 align="left">🐍 Contributions</h3>
 
 ###
 
@@ -102,7 +89,7 @@
 
 ###
 
-<h3 align="left">📈 Actividad Reciente</h3>
+<h3 align="left">📈 Recent Activity</h3>
 
 ###
 
@@ -113,12 +100,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jjarque/count.svg?"  />
+  <p>Thanks for visiting my profile! 🚀</p>
 </div>
 
-###
-
-<div align="center">
-  <p>¡Gracias por visitar mi perfil! 🚀</p>
-  <p>🌐 <a href="https://jjarque.dev">Visita mi sitio web</a></p>
-</div>
