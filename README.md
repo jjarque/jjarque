@@ -1,7 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Jaime</h1>
 
-###
-
 <div align="center">
   <a href="https://jjarque.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
