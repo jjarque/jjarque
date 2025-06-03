@@ -73,16 +73,6 @@
 
 ###
 
-<h3 align="left">🐍 Contributions</h3>
-
-###
-
-<div align="center">
-  <img alt="snake eating my contributions" src="[https://raw.githubusercontent.com/jjarque/jjarque/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/jjarque/jjarque/output/github-contribution-grid-snake.svg)" />
-</div>
-
-###
-
 <h3 align="left">📈 Recent Activity</h3>
 
 ###
