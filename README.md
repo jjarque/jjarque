@@ -42,16 +42,6 @@
 
 <hr />
 
-### 🚀 Un "carrusel" de tecnologías que amo *(modo visual)*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/working.gif" height="200" />
-  <br /><br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jjarque&theme=github_dark" />
-</p>
-
-<hr />
-
 ### 📫 ¿Dónde encontrarme?
 
 <p align="center">
