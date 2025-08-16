@@ -3,7 +3,6 @@
 ## About Me
 🚀 Full Stack Developer passionate about creating clean, efficient solutions  
 💡 I love building modern web applications and learning new technologies  
-🌐 Check out my work at [jjarque.dev](https://jjarque.dev)
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
