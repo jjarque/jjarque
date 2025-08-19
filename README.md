@@ -25,8 +25,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jjarque&show_icons=true&theme=dark&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjarque&layout=compact&theme=dark&hide_border=true" height="165">
 </div>
-
-## Connect
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jjarque.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jjarque1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactojjarque@gmail.com)
