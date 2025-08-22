@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Jaime
 
 ## About Me
-🚀 Front-End Developer passionate about creating clean, efficient solutions  
+🚀 Software Developer passionate about creating clean, efficient solutions  
 💡 I love building modern web applications and learning new technologies  
 
 ## Tech Stack
